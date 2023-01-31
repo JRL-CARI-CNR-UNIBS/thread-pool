@@ -1,5 +1,5 @@
 # thread_pool
-Package to use [BS::thread_pool](https://github.com/bshoshany/thread-pool).
+Package to use [BS::thread-pool](https://github.com/bshoshany/thread-pool).
 
 Download it correctly by typing
 
