@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>thread_pool</name>
+  <name>thread-pool</name>
   <version>0.0.0</version>
-  <description>The thread_pool package</description>
+  <description>The thread-pool package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
@@ -19,7 +19,7 @@
   <!-- Url tags are optional, but multiple are allowed, one per tag -->
   <!-- Optional attribute type can be: website, bugtracker, or repository -->
   <!-- Example: -->
-  <!-- <url type="website">http://wiki.ros.org/thread_pool</url> -->
+  <!-- <url type="website">http://wiki.ros.org/thread-pool</url> -->
 
 
   <!-- Author tags are optional, multiple are allowed, one per tag -->
@@ -49,6 +49,7 @@
   <!-- Use doc_depend for packages you need only for building documentation: -->
   <!--   <doc_depend>doxygen</doc_depend> -->
   <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
 
 
   <!-- The export tag contains other, unspecified, tags -->
